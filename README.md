@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil Dev nicolafy 😁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolafy&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
     #MINHAS LINGUAGENS
 <div style="display: inline_block"><br>
