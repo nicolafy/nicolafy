@@ -1,6 +1,5 @@
 ## Bem-vindo(a) ao perfil Dev nicolafy 😁
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolafy&show_icons=true&theme=transparent)
     #MINHAS LINGUAGENS
 <div style="display: inline_block"><br>
@@ -19,7 +18,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Redes Socias
  
 <div>
  <a href="https://discord.com/channels/821364094878613524/1262394989196083281" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
