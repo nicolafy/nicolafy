@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil Dev nicolafy 😁
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolafy&show_icons=true&theme=transparent)
     #MINHAS LINGUAGENS
 <div style="display: inline_block"><br>
