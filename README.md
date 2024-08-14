@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil Dev nicolafy 😁
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolafy&show_icons=true&theme=transparent)
 
     #MINHAS LINGUAGENS
 <div style="display: inline_block"><br>
